@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = teatroradio
+	mail = matiasalejandrogramajo@gmail.com
+	password = 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
+[remote "origin"]
+	url = https://github.com/teatroradio/PortfolioFrontEnd.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
